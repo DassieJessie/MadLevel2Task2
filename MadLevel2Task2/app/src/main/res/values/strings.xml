@@ -2,6 +2,10 @@
     <string name="app_name">Swipe Quiz</string>
 
     <string name="title">Quiz Instructions</string>
-
     <string name="info">Swipe right for true, swipe left for false.</string>
+
+    <string name="valVar">A "val" and "var" are the same.</string>
+    <string name="ECTS">Mobile Application Development grats 12 ECTS.</string>
+    <string name="unit">A Unit in Kotlin corresponds to a void in Java.</string>
+    <string name="whenSwitch">In Kotlin "when" replaces the switch operator in Java</string>
 </resources>
