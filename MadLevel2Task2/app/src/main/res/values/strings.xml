@@ -8,4 +8,7 @@
     <string name="ECTS">Mobile Application Development grats 12 ECTS.</string>
     <string name="unit">A Unit in Kotlin corresponds to a void in Java.</string>
     <string name="whenSwitch">In Kotlin "when" replaces the switch operator in Java</string>
+
+    <string name="correct">That is correct</string>
+    <string name="incorrect">That is incorrect</string>
 </resources>
